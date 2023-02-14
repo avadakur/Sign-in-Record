@@ -1,4 +1,5 @@
 # Sign-in-Record
+##### *Aavadakur*
 ### A Micro Service About How to Record Huge Number of People Sign in and Count.
 
 * This project will contain some popular tools.
@@ -20,3 +21,6 @@
 3. So we use bitmap to help us storage data.
 4. Some bitmap api.
 > http://t.csdn.cn/qUIy7
+
+### By the way, I am a Teleworker,I can pick some project about Java and Vue
+### WeiXin:Avadakur
