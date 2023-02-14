@@ -23,4 +23,4 @@
 > http://t.csdn.cn/qUIy7
 
 ### By the way, I am a Teleworker,I can pick some project about Java and Vue
-### WeiXin:Avadakur
+### email: 1432607025@qq.com
