@@ -1,12 +1,22 @@
 # Sign-in-Record
 ##### *Aavadakur*
 ### A Micro Service About How to Record Huge Number of People Sign in and Count.
+### 一个微服务用来统计在大量用户情况下节省空间进行签到统计的项目
+<br />
 
 * This project will contain some popular tools.
 * And it just a simple demo to help some developers to make sign in business.
 * There is the tools the project will use.
+* 这个项目包含一些比较流行的框架和工具
+* 它只是一个简单的演示，帮助一些开发人员学习如何进行签到统计业务。
+* 这是项目将使用的工具。
+
 
 ##### The main business is base on Redis, some feature about bitmap structure.
+##### 主要业务是基于Redis，位图结构的一些特性。
+<br />
+<br />
+
 ##### The main principle will be show you.
 
 1. **Springboot**
@@ -21,9 +31,6 @@
 3. So we use bitmap to help us storage data.
 4. Some bitmap api.
 > http://t.csdn.cn/qUIy7
-
-### By the way, I am a Teleworker,I can pick some project about Java and Vue
-### email: 1432607025@qq.com
 
 **核心代码解读**
 
@@ -82,3 +89,6 @@
         return result;
     }
 ```
+
+### By the way, I am a Teleworker,I can pick some project about Java and Vue
+### email: 1432607025@qq.com
